@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Rustech Key Less</string>
-    <string name="channel_name">Rustech Key Less Broadcast</string>
-    <string name="notification_title">RUSTECH KEY LESS</string>
+    <string name="app_name">Rustech KeyLess</string>
+    <string name="channel_name">Rustech KeyLess Broadcast</string>
+    <string name="notification_title">RUSTECH KEYLESS</string>
 </resources>
