@@ -21,9 +21,6 @@ jobs:
       - name: Set up Android SDK
         uses: android-actions/setup-android@v3
 
-      - name: Generate pinned Gradle wrapper
-        run: gradle wrapper --gradle-version 8.4 --distribution-type bin
-
       - name: Make gradlew executable
         run: chmod +x ./gradlew
 
