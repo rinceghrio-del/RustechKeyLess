@@ -39,7 +39,7 @@
                         android:id="@+id/tvAppTitle"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="RUSTECH KEY LESS"
+                        android:text="RUSTECH KEYLESS"
                         android:textColor="@color/accent_green"
                         android:textSize="26sp"
                         android:letterSpacing="0.08"
