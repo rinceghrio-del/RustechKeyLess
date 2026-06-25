@@ -44,7 +44,7 @@
                         android:textSize="26sp"
                         android:letterSpacing="0.08"
                         android:fontFamily="sans-serif-medium"
-                        android:shadowColor="#80_00E87A"
+                        android:shadowColor="#8000E87A"
                         android:shadowDx="0"
                         android:shadowDy="0"
                         android:shadowRadius="18" />
